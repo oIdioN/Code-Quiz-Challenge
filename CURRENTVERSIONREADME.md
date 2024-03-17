@@ -86,26 +86,21 @@ The screenshot of the whole website.
 
 ## Description 
 
+### Features
 
-
-
-### Prerequisites
-
-Create a code quiz that contains the following requirements:
+The code quiz contains the following requirements:
 
 * A start button that when clicked a timer starts and the first question appears.
   * Questions conain buttons for each answer.
-  * When answer is clicked, the next question appears
-  * If the answer clicked was incorrect then subtract time from the clock
+  * When answer is clicked, the next question appears.
+  * If the answer clicked was incorrect then subtract time from the clock.
   * The quiz should end when all questions are answered or the timer reaches 0.
-* When the game ends, it should display their score and give the user the ability to save their initials and their score
-
-
-### Features
+* When the game ends, it should display their score and give the user the ability to save their initials and their score.
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Issues
@@ -120,14 +115,11 @@ For issues, head to <a href="https://github.com/oIdioN/Code-Quiz-Challenge/issue
 
 - [ ] Layout considered
 - [ ] Sections added
-- [ ] Social links and images added
+- [ ] Layout has been customized
 
 Future releases:
-- [ ] Future challenges will be added\
+- [ ] Future questions will be added
 - [ ] The code will go through extensive rework, such as updating with the missing sections.
-
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

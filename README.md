@@ -1,88 +1,195 @@
-# Module 6 Challenge Web APIs: Code Quiz
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-## Your Task
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/oIdioN/Code-Quiz-Challenge">
+    <img src="src/images/screenshot/sitecover.png" alt="Logo" width="110" height="70">
+  </a>
 
-As you proceed in your journey to becoming a front-end web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
+<h3 align="center">Web APIs: Code Quiz Challenge</h3>
 
-To help you become familiar with these tests and give you a chance to apply the skills from this module, this week’s challenge invites you to build a timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. This week’s coursework has taught you all the skills you need to succeed in this challenge.
+  <p align="center">
+  This Challenge, a timed, multiple-choice coding quiz that can keep track of high scores and quiz-takers' initials has been produced.
+    <br/>
+    <br/>
+    <a href="https://github.com/oIdioN/Code-Quiz-Challenge">Repo page</a>
+    ·
+    <a href="https://github.com/oIdioN/Code-Quiz-Challenge">Deployed Application</a>
+    ·
+    <a href="https://github.com/oIdioN/Code-Quiz-Challenge">Report Bug</a>
+    ·
+    <a href="https://github.com/oIdioN/Code-Quiz-Challenge">Request Feature</a>
+  </p>
+</div>
 
 
-## User Story
 
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Description">Description</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#issues">Issues</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  
+  </ol>
+</details>
 
-## Acceptance Criteria
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This Challenge, a timed, multiple-choice coding quiz that can keep track of high scores and quiz-takers' initials has been produced.
+
+
+![Site](src/images/screenshot/sitecover.png "Site")
+<br>
+The cover ("above the fold") of the page.
+
+
+
+
+![Site](src/images/screenshot/siteshot.png "Site")
+<br>
+The screenshot of the whole website.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Built With
+
+![Static Badge](https://img.shields.io/badge/HTML-96%25-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/css-4%25-brigthgreen?style=for-the-badge)
+
+
+## Description 
+
+
+
+
+### Prerequisites
 
 Create a code quiz that contains the following requirements:
 
 * A start button that when clicked a timer starts and the first question appears.
- 
-  * Questions contain buttons for each answer.
-  * 
+  * Questions conain buttons for each answer.
   * When answer is clicked, the next question appears
-  * 
   * If the answer clicked was incorrect then subtract time from the clock
-
-* The quiz should end when all questions are answered or the timer reaches 0.
-
-  * When the game ends, it should display their score and give the user the ability to save their initials and their score
-  
-## Mock-Up
-
-The following animation demonstrates the application functionality:
-
-![Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their intials, then clears their intials and starts over.](./assets/08-web-apis-challenge-demo.gif)
-
-## Grading Requirements
-
-This challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+  * The quiz should end when all questions are answered or the timer reaches 0.
+* When the game ends, it should display their score and give the user the ability to save their initials and their score
 
 
-## Review
+### Features
 
-You are required to submit BOTH of the following for review:
 
-* The URL of the functional, deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Issues
+
+For issues, head to <a href="https://github.com/oIdioN/Code-Quiz-Challenge/issues">Issues</a> for a full list.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Layout considered
+- [ ] Sections added
+- [ ] Social links and images added
+
+Future releases:
+- [ ] Future challenges will be added\
+- [ ] The code will go through extensive rework, such as updating with the missing sections.
+
+
+See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/oIdioN/Code-Quiz-Challenge.svg?style=for-the-badge
+[contributors-url]: https://github.com/oIdioN/Code-Quiz-Challenge/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/oIdioN/Code-Quiz-Challenge.svg?style=for-the-badge
+[forks-url]: https://github.com/oIdioN/Code-Quiz-Challenge/forks
+[stars-shield]: https://img.shields.io/github/stars/oIdioN/Code-Quiz-Challenge.svg?style=for-the-badge
+[stars-url]: https://github.com/oIdioN/Code-Quiz-Challenge/stargazers
+[issues-shield]: https://img.shields.io/github/issues/oIdioN/Code-Quiz-Challenge.svg?style=for-the-badge
+[issues-url]: https://github.com/oIdioN/Code-Quiz-Challenge/issues 
+[license-shield]: https://img.shields.io/github/license/oIdioN/Code-Quiz-Challenge.svg?style=for-the-badge
+[license-url]: https://github.com/oIdioN/Code-Quiz-Challenge?tab=MIT-1-ov-file#readme
+[product-screenshot]: src/images/screenshot/sitecover.png
+[NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/en
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
+[Bulma]: https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white
+
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+(c) 2024 oIdioN. All rights reserved.
+</div>
+

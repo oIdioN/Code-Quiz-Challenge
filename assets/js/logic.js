@@ -59,16 +59,16 @@ function showQuestions() {
 // Handle answer selection 
 function checkAnswer(event) { // Renamed for clarity 
      const selectedAnswer = event.target.textContent; 
-     const correctSound = new Audio('./assets/sfx/correctsound.wav'); // Create new Audio object and play it if correct
-     const incorrectSound = new Audio('./assets/sfx/incorrectsound.wav'); // played when incorret
+     const correctSound = new Audio('./assets/sfx/correct.wav'); // Create new Audio object and play it if correct
+     const incorrectSound = new Audio('./assets/sfx/incorrect.wav'); // played when incorret
  
      if (quiz[currentQuestionIndex].answer === selectedAnswer) {
          score += 5;
-         choice.textContent = "Correct Answer!";
+         feedback.textContent = "Correct Answer!";
          correctSound.play(); // Play correct sound
      } else {
          secondsLeft -= 10;
-         choice.textContent = "Better luck next time!";
+         feedback.textContent = "Better luck next time!";
          incorrectSound.play(); // Play incorrect sound
      }
  

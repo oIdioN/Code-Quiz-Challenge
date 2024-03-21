@@ -63,16 +63,9 @@
 This Challenge, a timed, multiple-choice coding quiz that can keep track of high scores and quiz-takers' initials has been produced.
 
 
-![Site](src/images/screenshot/sitecover.png "Site")
+![Site](./assets/misc/quiz_questions.png "Site")
 <br>
-The cover ("above the fold") of the page.
-
-
-
-
-![Site](src/images/screenshot/siteshot.png "Site")
-<br>
-The screenshot of the whole website.
+A screenshot of the game.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -113,13 +106,13 @@ For issues, head to <a href="https://github.com/oIdioN/Code-Quiz-Challenge/issue
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Layout considered
-- [ ] Sections added
-- [ ] Layout has been customized
+- [x] Layout considered
+- [x] Sections added
+- [x] Layout has been customized
 
 Future releases:
 - [ ] Future questions will be added
-- [ ] The code will go through extensive rework, such as updating with the missing sections.
+- [ ] The code will go through extensive rework, .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,20 +135,14 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License.
 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
 ## Contact
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -7,9 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/oIdioN/Code-Quiz-Challenge">
-    <img src="src/images/screenshot/sitecover.png" alt="Logo" width="110" height="70">
-  </a>
+  
 
 <h3 align="center">Web APIs: Code Quiz Challenge</h3>
 
